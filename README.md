@@ -10,3 +10,5 @@ Just get a copy and run it on your server.
 Get an instance like this : Apache/Nginx/Whatever + PHP + Sqlite3
 
 All the data are provided except personal data (user table with login, passwords, emails).
+
+![home](2020-02-10 15_27_11-CardFightersDB _ What is this project all about _.png "home")
