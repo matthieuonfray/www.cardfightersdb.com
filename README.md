@@ -11,4 +11,4 @@ Get an instance like this : Apache/Nginx/Whatever + PHP + Sqlite3
 
 All the data are provided except personal data (user table with login, passwords, emails).
 
-![home](2020-02-10 15_27_11-CardFightersDB _ What is this project all about _.png "home")
+![home](https://github.com/matthieuonfray/www.cardfightersdb.com/blob/master/2020-02-10%2015_27_11-CardFightersDB%20_%20What%20is%20this%20project%20all%20about%20_.png "home")
