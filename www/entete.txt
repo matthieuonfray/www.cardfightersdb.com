@@ -1,0 +1,13 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/svc.css">
+<link type="text/css" rel="stylesheet" href="css/ace.css">
+<link rel="icon" href="/i/favicon.ico" type="image/ico">
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="Content-Language" content="en,fr">
+<meta name="description" content="This is a fan project about the game SNK vs Capcom: Card Fighters. It is a very useful database.">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="snk, capcom, tcg, card, deck, fighters, fighter, clash, svc, expand, edition, ngpc, neogeo, neo-geo, nintendo, ds">
+<meta name="author" content="Matthieu ONFRAY">

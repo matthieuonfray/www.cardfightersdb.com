@@ -1,0 +1,13 @@
+		</p>
+		</div>
+			</div>
+	</section>		
+
+	
+</div>
+</div>
+
+<footer class="footer">
+	<div class="span12">
+		<div class="row">
+			<nav>

@@ -1,0 +1,93 @@
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+<script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/bootstrap-tooltip.js"></script>
+<script type="text/javascript" src="js/bootstrap-popover.js"></script>
+</head>
+<body>
+
+<header id="header">
+	<div class="container">
+		<div class="nav-mobile">
+			<button class="navbar-toggle btn-mobile btn-mobile-menu" type="button" data-toggle="collapse" data-target="#sectionjumper">
+		        <span class="sr-only">Menu</span>
+      		</button>
+      		<button class="navbar-toggle btn-mobile btn-mobile-account" type="button" data-toggle="collapse" data-target="#accountjumper">
+		        <span class="sr-only">Profile</span>
+      		</button>
+		</div>
+		<div class="head-ui">
+			<div class="span4 svc-logo"><a href="/"><img border=0 src="i/No-logo.png" alt="Snk vs Capcom videogame"></a></div>
+		</div>
+</div>
+
+<nav id="mainmenu" class="navbar">
+			<div class="navbar-inner">
+				<div class="wrapper span12">
+				      <ul id="sectionjumper" class="nav navbar-nav navbar-collapse menu-navbar-collapse collapse">
+
+						<li><a href="/">Home</a></li>
+						<li class="dropdown">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown">SvC1 <b class="caret"></b></a>
+											<ul class="dropdown-menu">
+												<li><a href="svc1-characters">Characters</a></li>
+												<li><a href="svc1-action">Action</a></li>
+												<li><a href="svc1-stats">Stats</a></li>
+												<li><a href="svc1-screenshots">Screenshots</a></li>
+												<li><a href="svc1-exclusive">Exclusive</a></li>
+												<li><a href="svc1-reviews">Reviews</a></li>
+												<li><a href="svc1-list">My list</a></li>
+											</ul>
+						</li>
+						
+						<li class="dropdown">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown">SvC2 <b class="caret"></b></a>
+											<ul class="dropdown-menu">
+												<li><a href="svc2-characters">Characters</a></li>
+												<li><a href="svc2-action">Action</a></li>
+												<li><a href="svc2-reaction">Reaction</a></li>
+												<li><a href="svc2-stats">Stats</a></li>
+												<li><a href="svc2-screenshots">Screenshots</a></li>
+												<li><a href="svc2-exclusive">Exclusive</a></li>
+												<li><a href="svc2-reviews">Reviews</a></li>
+												<li><a href="svc2-list">My list</a></li>
+											</ul>
+						</li>
+						<!--
+						<li class="dropdown">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown">SvC3 <b class="caret"></b></a>
+											<ul class="dropdown-menu">
+												<li><a href="svc3-characters">Characters</a></li>
+												<li><a href="svc3-action">Action</a></li>
+												<li><a href="svc3-stats">Stats</a></li>
+												<li><a href="svc3-screenshots">Screenshots</a></li>
+												<li><a href="svc3-exclusive">Exclusive</a></li>
+												<li><a href="svc3-reviews">Reviews</a></li>
+											</ul>
+						</li>
+-->
+						<li class="dropdown">
+											<a href="#" class="dropdown-toggle" data-toggle="dropdown">Players <b class="caret"></b></a>
+											<ul class="dropdown-menu">
+												<li><a href="profile.php">My profile</a></li>
+												<li><a href="community.php">Community</a></li>
+											</ul>
+						</li>
+												
+												
+						<li><a href="history.php">History</a></li>
+						<li><a href="contact.php">Contact</a></li>
+						<li><a href="links.php">Links</a></li>
+					</ul>
+					
+					<ul id="accountjumper" class="nav navbar-nav navbar-collapse account-navbar-collapse collapse">
+						<li><a href="profile.php">My profile</a></li>
+					</ul>
+							
+				</div>
+			</div>
+</nav>
+</header>
+
+
+<div id="mantle_skin">
+<section class="frame">
